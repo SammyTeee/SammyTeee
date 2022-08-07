@@ -1,4 +1,4 @@
-<center>[](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/overview.svg#gh-dark-mode-only)</center>
+<center>![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/overview.svg#gh-dark-mode-only)</center>
 <center>![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/overview.svg#gh-light-mode-only)</center>
 
 <center>![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/languages.svg#gh-dark-mode-only)</center>
