@@ -1,8 +1,8 @@
-![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/overview.svg#gh-light-mode-only)
+<center>[](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/overview.svg#gh-dark-mode-only)</center>
+<center>![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/overview.svg#gh-light-mode-only)</center>
 
-![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/languages.svg#gh-light-mode-only)
+<center>![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/languages.svg#gh-dark-mode-only)</center>
+<center>![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/languages.svg#gh-light-mode-only)</center>
 
 <!--
 **SammyTeee/SammyTeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
