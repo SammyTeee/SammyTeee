@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/SammyTeee/stats/master/generated/languages.svg#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyTeee)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
